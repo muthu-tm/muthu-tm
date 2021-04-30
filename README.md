@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthu-tm&label=Profile%20views&color=0e75b6&style=flat" alt="muthu-tm" /> </p>
 
-- 🌱 I’m currently learning **Docker & K8s**
+- 🌱  I’m currently learning **Docker & K8s**
 
-- 💬 Ask me about **Go, NodeJS, Flutter, AWS & GCP**
+- 💬  Ask me about **BackEnd (Java, Go, NodeJS, Python), Mobile (Flutter), Cloud (AWS & GCP)**
 
-- 📫 How to reach me **muthu33cse@gmail.com**
+- 📫  How to reach me **muthu33cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
