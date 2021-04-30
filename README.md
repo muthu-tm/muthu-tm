@@ -13,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='100'>](https://github.com/muthu-tm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='100'>](https://www.linkedin.com/in/muthu-thavamani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30' width='100'>](https://stackoverflow.com/users/5922554) 
+<a href="https://github.com/muthu-tm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="muthu-tm" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/muthu-thavamani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muthu-thavamani" height="30" width="100" /></a>
+<a href="https://stackoverflow.com/users/5922554" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5922554" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
