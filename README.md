@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muthu Thavamani</h1>
 <h3 align="center">A Polyglot Software Engineer, passionate to learn and find better solutions.</h3>
 
+<h5>Software engineer with 5+ years of experience. Worked in many Projects using various technologies and done few POCs as well. Always keen to learn and experience new tech & tools.</h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthu-tm&label=Profile%20views&color=0e75b6&style=flat" alt="muthu-tm" /> </p>
 
 - 🌱  I’m currently learning **Docker & K8s**
@@ -11,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muthu-thavamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="muthu-thavamani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5922554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="5922554" height="30" width="40" /></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' width='100'>](https://github.com/muthu-tm)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' width='100'>](https://www.linkedin.com/in/muthu-thavamani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30' width='100'>](https://stackoverflow.com/users/5922554) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muthu-tm&show_icons=true&locale=en&layout=compact" alt="muthu-tm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muthu-tm&show_icons=true&locale=en" alt="muthu-tm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muthu-tm&show_icons=true&locale=en&count_private=true" alt="muthu-tm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthu-tm&" alt="muthu-tm" /></p>
 
