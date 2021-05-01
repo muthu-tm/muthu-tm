@@ -3,8 +3,6 @@
 
 <h5>Software engineer with 5+ years of experience. Worked in many Projects using various technologies and done few POCs as well. Always keen to learn and experience new tech & tools.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muthu-tm&label=Profile%20views&color=0e75b6&style=flat" alt="muthu-tm" /> </p>
-
 - 🌱  I’m currently learning **Docker & K8s**
 
 - 💬  Ask me about **BackEnd (Java, Go, NodeJS, Python), Mobile (Flutter), Cloud (AWS & GCP)**
