@@ -25,14 +25,12 @@
 <a href="https://stackoverflow.com/users/5922554" target="blank">
 <img align="center" src="https://img.shields.io/badge/stackoverflow-F58025?logo=stackoverflow&logoColor=black&style=flat" alt="5922554" height="30" width="120" />
 </a>
-</p><br>
+</p>
 
-<h3 align="left">Languages and Tools:</h3> <br>
-
+<h3 align="left">Languages and Tools:</h3>
 <ul>
 
 <h4 align="left">- Languages</h4>
-
 <p align="left">
 
 <a href="https://www.java.com" target="_blank">
