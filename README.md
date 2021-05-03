@@ -15,15 +15,15 @@
 <p align="left">
 
 <a href="https://github.com/muthu-tm" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="muthu-tm" height="30" width="100" />
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="muthu-tm" height="30" width="120" />
 </a> 
 
 <a href="https://linkedin.com/in/muthu-thavamani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muthu-thavamani" height="30" width="100" />
+<img align="center" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat" alt="muthu-thavamani" height="30" width="120" />
 </a>
 
 <a href="https://stackoverflow.com/users/5922554" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5922554" height="30" width="100" />
+<img align="center" src="https://img.shields.io/badge/stackoverflow-F58025?logo=stackoverflow&logoColor=black&style=flat" alt="5922554" height="30" width="120" />
 </a>
 </p><br>
 
@@ -36,27 +36,23 @@
 <p align="left">
 
 <a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" alt="java" width="80" height="30"/> 
 </a> 
 
 <a href="https://nodejs.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="40"/>
-</a> 
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat" alt="nodejs" width="80" height="30"/>
 </a> 
 
 <a href="https://golang.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"  width="50" height="40"/>  
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat" alt="go"  width="80" height="30"/>  
 </a> 
 
 <a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="python" width="80" height="30"/> 
 </a> 
 
 <a href="https://dart.dev" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  width="50" height="40"/> 
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat" alt="dart"  width="80" height="30"/> 
 </a> 
 </p>
 
@@ -64,42 +60,50 @@
 <p align="left"> 
 
 <a href="https://www.mysql.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="mysql" width="80" height="30"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="mongodb" width="80" height="30"/> 
 </a>  
 
 <a href="https://www.postgresql.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="40"/> 
-</a> 
+<img src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=white&style=flat" alt="postgresql" width="80" height="30"/> 
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://img.shields.io/badge/FireStore-FFCA28?logo=firebase&logoColor=black&style=flat" alt="firebase" width="80" height="30"/>
+</a>
 
 <a href="https://couchdb.apache.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/CouchDB-EA2328?logo=couchbase&logoColor=white&style=flat" alt="couchdb" width="80" height="30"/> 
 </a> 
 
 <a href="https://redis.io" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="40"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat" alt="redis" width="80" height="30"/>
 </a>
 </p>
 
 <h4 align="left">- Cloud</h4>
 
 <a href="https://aws.amazon.com" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon%20aws&logoColor=white&style=flat" alt="aws" width="80" height="30"/> 
 </a>
 
 <a href="https://cloud.google.com" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/GCP-4285F4?logo=google%20cloud&logoColor=white&style=flat" alt="gcp" width="80" height="30"/> 
 </a>
 
 <a href="https://www.docker.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="40"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="docker" width="80" height="30"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="40"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" alt="firebase" width="80" height="30"/>
+</a>
+
+<a href="https://aws.amazon.com/amplify/" target="_blank">
+<img src="https://img.shields.io/badge/AWS Amplify-FF9900?logo=aws%20amplify&logoColor=black&style=flat" alt="amplify" width="90" height="30"/>
 </a>
 
 </p>
@@ -108,7 +112,15 @@
 <p align="left"> 
 
 <a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="40"/> 
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat" alt="flutter" width="100" height="30"/> 
+</a> 
+</p>
+
+<h4 align="left">- Blockchain</h4>
+<p align="left"> 
+
+<a href="https://www.hyperledger.org/" target="_blank">
+<img src="https://img.shields.io/badge/Hyperledger-2F3134?logo=hyperledger&logoColor=white&style=flat" alt="hyperledger" width="100" height="30"/> 
 </a> 
 </p>
 </ul>
