@@ -19,11 +19,11 @@
 </a> 
 
 <a href="https://linkedin.com/in/muthu-thavamani" target="blank">
-<img align="center" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat" alt="muthu-thavamani" height="30" width="120" />
+<img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white&style=flat" alt="muthu-thavamani" height="30" width="120" />
 </a>
 
 <a href="https://stackoverflow.com/users/5922554" target="blank">
-<img align="center" src="https://img.shields.io/badge/stackoverflow-F58025?logo=stackoverflow&logoColor=black&style=flat" alt="5922554" height="30" width="120" />
+<img align="center" src="https://img.shields.io/badge/Stackoverflow-F58025?logo=stackoverflow&logoColor=black&style=flat" alt="5922554" height="30" width="120" />
 </a>
 </p>
 
@@ -66,7 +66,7 @@
 </a>  
 
 <a href="https://www.postgresql.org" target="_blank">
-<img src="https://img.shields.io/badge/postgresql-336791?logo=postgresql&logoColor=white&style=flat" alt="postgresql" width="80" height="30"/> 
+<img src="https://img.shields.io/badge/Postgresql-336791?logo=postgresql&logoColor=white&style=flat" alt="postgresql" width="80" height="30"/> 
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
