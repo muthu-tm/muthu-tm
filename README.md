@@ -128,4 +128,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muthu-tm&show_icons=true&locale=en&count_private=true&theme=radical" alt="muthu-tm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muthu-tm&theme=radical" alt="muthu-tm" /></p>
