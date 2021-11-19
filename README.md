@@ -2,11 +2,11 @@
 
 <h3 align="center">A Polyglot Software Engineer, passionate to learn and find better solutions.</h3>
 
-<h5>Software engineer with 5+ years of experience. Worked in many Projects using various technologies and done few POCs as well. Always keen to learn and experience new tech & tools.</h5>
+<h5>Software engineer with 6 years of experience. Worked in many Projects using various technologies and done few POCs as well. Always keen to learn and experience new tech & tools.</h5>
 
 - 🌱  I’m currently learning **Docker & K8s**  <br><br>
 
-- 💬  Ask me about **BackEnd (Java, Go, NodeJS, Python), Mobile (Flutter), Cloud (AWS & GCP)**<br><br>
+- 💬  Ask me about **BackEnd (Go, NodeJS, Python, Java), Mobile (Flutter), Cloud (AWS & GCP)**<br><br>
 
 - 📫  How to reach me **muthu33cse@gmail.com** <br><br>
 
