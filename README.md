@@ -6,9 +6,9 @@
 
 - 🌱  I’m currently learning **Docker & K8s**  <br><br>
 
-- 💬  Ask me about **BackEnd (Go, NodeJS, Python, Java), Mobile (Flutter), Cloud (AWS & GCP)**<br><br>
+- 💬  Ask me about **BackEnd (Go, NodeJS, Python, Java), Mobile (Flutter), Blockchain (Ethereum, Polygon, Solidity, Hardhat, etc ) Cloud (AWS & GCP)**<br><br>
 
-- 📫  How to reach me **muthu33cse@gmail.com** <br><br>
+- 📫  How to reach me **muthu.thavamani.03@gmail.com** <br><br>
 
 <h3 align="left">Connect with me:</h3>
 
