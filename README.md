@@ -2,11 +2,11 @@
 
 <h3 align="center">A Polyglot Software Engineer, passionate to learn and find better solutions.</h3>
 
-<h5>Software engineer with 6 years of experience. Worked in many Projects using various technologies and done few POCs as well. Always keen to learn and experience new tech & tools.</h5>
+<h5>I'm a Polyglot Lead Engineer and Architect with 8+ years of experience. Worked with multiple early stage startups (web2 & web3) and built their system from 0 to 1. Always keen to learn and experience new tech & tools.</h5>
 
 - 🌱  I’m currently learning **Docker & K8s**  <br><br>
 
-- 💬  Ask me about **BackEnd (Go, NodeJS, Python, Java), Mobile (Flutter), Blockchain (Ethereum, Polygon, Solidity, Hardhat, etc ) Cloud (AWS & GCP)**<br><br>
+- 💬  Ask me about **BackEnd (Go, NodeJS, Python, Java, Dart), Mobile (React Native, Flutter), Blockchain (Ethereum, Polygon, Cosmos, Solidity, Hardhat, Cosmos SDK, etc ) Cloud (AWS & GCP)**<br><br>
 
 - 📫  How to reach me **muthu.thavamani.03@gmail.com** <br><br>
 
